@@ -14,6 +14,8 @@
 | 04 | [実装手順書（やさしい版）](./04-implementation-steps.md) | 何をどの順で作るかを専門用語なしでまとめた手順表。**まず最初の30日でやること**付き |
 | 05 | [医院カルテ 質問項目＆タグ設計](./05-clinic-profile-questions.md) | 登録時に1回だけ聞く質問（15問）とLステップのタグ設計。第三者提供の同意も |
 | 06 | [送客システム設計](./06-referral-system.md) | ワンクリック送客（資料請求含む）＋送客数のリアルタイム共有の最善構成 |
+| 07 | [送客機能 ポータル組込 技術仕様書](./07-referral-portal-spec.md) | 自社ポータル（Node.js/TS＋PostgreSQL）に組み込む開発仕様。DB・API・認可・通知・成果報酬 |
+| 08 | [Claude 開発用プロンプト集](./08-claude-dev-prompt.md) | 07をClaude Codeで実装するための、そのまま貼れるプロンプト（探索→PR分割） |
 | — | [routing-priority-master.csv](../data/routing-priority-master.csv) | 01の機械可読版。Lステップのタグ／シナリオ設計に取込 |
 | — | [clinic-profile-tags.csv](../data/clinic-profile-tags.csv) | 05の機械可読版。医院カルテのタグ一覧 |
 

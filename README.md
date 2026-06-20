@@ -11,4 +11,6 @@
 - [実装手順書（やさしい版）](./docs/04-implementation-steps.md)
 - [医院カルテ 質問項目＆タグ設計](./docs/05-clinic-profile-questions.md)
 - [送客システム設計（ワンクリック送客＋リアルタイム共有）](./docs/06-referral-system.md)
+- [送客機能 ポータル組込 技術仕様書（Node.js/TS＋PostgreSQL）](./docs/07-referral-portal-spec.md)
+- [Claude 開発用プロンプト集](./docs/08-claude-dev-prompt.md)
 - [routing-priority-master.csv](./data/routing-priority-master.csv)（Lステップ取込用）
