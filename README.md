@@ -9,4 +9,6 @@
 - [収益シミュレーション](./docs/02-revenue-simulation.md)
 - [プッシュ配信トリガー設計](./docs/03-push-segmentation-triggers.md)
 - [実装手順書（やさしい版）](./docs/04-implementation-steps.md)
+- [医院カルテ 質問項目＆タグ設計](./docs/05-clinic-profile-questions.md)
+- [送客システム設計（ワンクリック送客＋リアルタイム共有）](./docs/06-referral-system.md)
 - [routing-priority-master.csv](./data/routing-priority-master.csv)（Lステップ取込用）

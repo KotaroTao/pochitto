@@ -12,7 +12,10 @@
 | 02 | [収益シミュレーション](./02-revenue-simulation.md) | サロン拡大／HP管理アタッチ／送客レイヤー／SLP送客化の増益試算（弱気・普通・強気） |
 | 03 | [プッシュ配信トリガー設計](./03-push-segmentation-triggers.md) | 季節・属性・行動トリガー、スコアリング、ガードレール |
 | 04 | [実装手順書（やさしい版）](./04-implementation-steps.md) | 何をどの順で作るかを専門用語なしでまとめた手順表。**まず最初の30日でやること**付き |
+| 05 | [医院カルテ 質問項目＆タグ設計](./05-clinic-profile-questions.md) | 登録時に1回だけ聞く質問（15問）とLステップのタグ設計。第三者提供の同意も |
+| 06 | [送客システム設計](./06-referral-system.md) | ワンクリック送客（資料請求含む）＋送客数のリアルタイム共有の最善構成 |
 | — | [routing-priority-master.csv](../data/routing-priority-master.csv) | 01の機械可読版。Lステップのタグ／シナリオ設計に取込 |
+| — | [clinic-profile-tags.csv](../data/clinic-profile-tags.csv) | 05の機械可読版。医院カルテのタグ一覧 |
 
 ## 基本コンセプト
 
